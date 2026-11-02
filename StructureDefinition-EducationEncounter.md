@@ -38,7 +38,7 @@ Other representations of profile: [CSV](StructureDefinition-EducationEncounter.c
   "name" : "EducationEncounter",
   "title" : "Min fina profil",
   "status" : "draft",
-  "date" : "2026-11-02T11:00:42+00:00",
+  "date" : "2026-11-02T12:40:00+00:00",
   "publisher" : "FHIR-utbildning",
   "jurisdiction" : [{
     "coding" : [{

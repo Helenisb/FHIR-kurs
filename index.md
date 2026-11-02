@@ -47,7 +47,7 @@ Detta är en R4 IG. Inga av funktionerna den använder har ändrats i R4B, så d
   "name" : "FhirEducationKursIG",
   "title" : "FHIR-utb – Kurs-IG",
   "status" : "draft",
-  "date" : "2026-11-02T11:00:42+00:00",
+  "date" : "2026-11-02T12:40:00+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "En liten Implementation Guide som byggs upp steg för steg under FHIR-utbildningen.",
   "jurisdiction" : [{
